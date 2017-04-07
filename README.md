@@ -1,4 +1,4 @@
-# Cordova/PhoneGap ActivityIndicator Plugin#
+# Cordova/PhoneGap ActivityIndicator Plugin #
 Plugin for Cordova 3.0+ that allows you to show a loading spinner and a message in your Android/iOS Cordova's app.
 
 ## Adding the plugin to your project ##

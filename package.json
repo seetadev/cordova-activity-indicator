@@ -1,0 +1,38 @@
+{
+  "name": "cordova-activity-indicator",
+  "version": "0.1.1",
+  "description": "This plugin allows you to show and hide the activity indicator on iOS.",
+  "cordova": {
+    "id": "cordova-activity-indicator",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seetadev/cordova-activity-indicator"
+  },
+  "keywords": [
+    "Cordova",
+    "PhoneGap",
+    "plugin",
+    "network",
+    "activity",
+    "indicator",
+    "iOS",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "seetadev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seetadev/cordova-activity-indicator/issues"
+  },
+  "homepage": "https://github.com/seetadev/cordova-activity-indicator"
+}
